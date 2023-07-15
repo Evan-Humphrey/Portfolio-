@@ -1,0 +1,53 @@
+html {     
+  height: 100%;
+  width: 100%;
+} 
+/*default*/
+
+/*add colors*/
+header{
+  background-color: #92ec9e;
+}
+
+
+nav{
+  background-color: #908478;
+}
+
+
+h1 {
+  color: #4c85f7;
+}
+
+
+h2, h3 {
+  color: #993737;
+}
+
+
+/*fiddle with texts*/
+h1, h2, h3 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;}
+
+
+p {
+  margin-left: 30;
+  margin-right: 30;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;}
+
+
+ol li{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  margin: 10px;}
+
+
+ul li {padding: 5px;}
+
+/*a pseudoclass*/ 
+a:link {
+  font-family: cursive;
+  color: blue;
+}
